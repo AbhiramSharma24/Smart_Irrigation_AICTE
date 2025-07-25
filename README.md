@@ -1,2 +1,2 @@
 # Smart_Irrigation_AICTE
-Week 1 assignment
+Week 2 assignment
